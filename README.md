@@ -1,6 +1,6 @@
 
 # MF0225_3 - Propuesta de solución para empresas con facturación en Excel  
-**Autor: Luis Felipe Díaz Gutiérrez**
+**Autor: Luis Diaz**
 
 ---
 
