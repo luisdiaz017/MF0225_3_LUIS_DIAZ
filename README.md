@@ -19,6 +19,8 @@ Además, Airtable permite crear formularios personalizados para añadir datos f�
 Esto facilita que cualquier persona pueda ingresar nueva información de facturación de forma ordenada, desde cualquier dispositivo.  
 Con solo unos clics tras ingresar los datos, se puede ejecutar la automatización para generar facturas sin complicaciones.
 
+![Formulario en Airtable](assets/gif_1.gif)
+
 Migramos los datos desde Excel a Airtable, una base de datos relacional en la nube. Airtable permite organizar la información en tablas interconectadas, como:
 
 - Clientes (nombre, NIF, dirección, contacto)  
