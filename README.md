@@ -189,7 +189,7 @@ Te invitamos a experimentar con la automatización utilizando un archivo de ejem
 
 Este archivo contiene datos básicos de facturación para que puedas intentar realizar tu propia automatización.
 
-### 🧪 ¿Qué puedes hacer?
+### ¿Qué puedes hacer?
 
 1. Importa el CSV en Airtable.
 2. Revisa que los campos estén correctamente mapeados (Cliente, Monto, IVA, etc.).
