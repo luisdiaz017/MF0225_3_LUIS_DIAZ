@@ -181,6 +181,23 @@ Evita errores de cálculo, accesibilidad multiplataforma
 
 ---
 
+## Prueba la Automatización con un Ejemplo Real
+
+Te invitamos a experimentar con la automatización utilizando un archivo de ejemplo incluido en este repositorio.
+
+### 📄 Archivo: `assets/prueba_factura.csv`
+
+Este archivo contiene datos básicos de facturación para que puedas intentar realizar tu propia automatización.
+
+### 🧪 ¿Qué puedes hacer?
+
+1. Importa el CSV en Airtable.
+2. Revisa que los campos estén correctamente mapeados (Cliente, Monto, IVA, etc.).
+3. Lanza tu flujo en Make para generar la factura automáticamente.
+4. Observa cómo se crea un PDF profesional con solo unos clics.
+
+> Esto te permitirá entender y probar cómo funcionaría el sistema completo en tu propio negocio.
+
 ## Desenlace del Proyecto
 
 Con este sistema:
