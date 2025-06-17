@@ -35,7 +35,7 @@ Visualización flexible (calendarios, listas filtradas), vinculación de datos e
 
 Usaremos Google Slides como herramienta de diseño:
 
-![Factura Google Slides](assets/img_1.gif)
+![Factura Google Slides](assets/img_1.png)
 
 - Plantilla con logo, datos fiscales y estructura base
 - Campos variables (número, fecha, total) conectados con Airtable
