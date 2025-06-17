@@ -35,6 +35,8 @@ Visualización flexible (calendarios, listas filtradas), vinculación de datos e
 
 Usaremos Google Slides como herramienta de diseño:
 
+![Factura Google Slides](assets/img_1.gif)
+
 - Plantilla con logo, datos fiscales y estructura base
 - Campos variables (número, fecha, total) conectados con Airtable
 - Exportación en PDF con nombre personalizado
@@ -44,6 +46,8 @@ Usaremos Google Slides como herramienta de diseño:
 ## Automatización con Make
 
 Make automatiza todo el proceso. Flujo:
+
+![Automatización con Make](assets/gif_2.gif)
 
 1. Se añade una factura en Airtable → Make detecta el cambio  
 2. Inserta los datos en la plantilla de Google Slides  
